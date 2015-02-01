@@ -12,6 +12,3 @@ while i < 5  do
    # Careful, Ruby does not support iterator shorcuts i++ or i--
    i +=1
 end
-
-
-# Block arguments are surrounded by pipes and seperated by commas

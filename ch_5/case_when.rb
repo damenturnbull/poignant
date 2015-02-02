@@ -1,4 +1,5 @@
 # Similar to a switch statement. a 'case' or 'case when' declares
+# 'when' is equates to === (strict equivalence)
 def beers_consumed( num_beers )
 	case num_beers
 	when 0
